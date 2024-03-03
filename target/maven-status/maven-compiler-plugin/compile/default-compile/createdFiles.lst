@@ -1,0 +1,6 @@
+newpackage/Showlogs.class
+com/mycompany/received_inbound_call/JakartaRestConfiguration.class
+newpackage/IncomingCallServlet.class
+com/mycompany/received_inbound_call/resources/JakartaEE8Resource.class
+newpackage/DataBase.class
+newpackage/MyTwilio.class
